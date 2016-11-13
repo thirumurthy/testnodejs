@@ -1,7 +1,7 @@
 {
   "name": "first hosting with heroku",
   "description": "This is a test application deployment with heroku",
-  "repository": "",
+  "repository": "https://github.com/thirumurthy/testnodejs.git",
   "logo": "",
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
