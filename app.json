@@ -1,15 +1,8 @@
 {
-<<<<<<< HEAD
-  "name": "Start on Heroku: Node.js",
-  "description": "A barebones Node.js app using Express 4",
-  "repository": "https://github.com/heroku/node-js-getting-started",
-  "logo": "http://node-js-sample.herokuapp.com/node.svg",
-=======
   "name": "first hosting with heroku",
   "description": "This is a test application deployment with heroku",
-  "repository": "https://github.com/thirumurthy/testnodejs.git",
+  "repository": "https://github.com/thirumurthy/node-js-getting-started.git",
   "logo": "",
->>>>>>> f9003bfe8d16a5d0b6a2d01b205ce653a47617bc
   "keywords": ["node", "express", "static"],
   "image": "heroku/nodejs"
 }

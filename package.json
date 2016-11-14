@@ -1,5 +1,4 @@
 {
-<<<<<<< HEAD
   "name": "node-js-getting-started",
   "version": "0.2.5",
   "description": "A sample Node.js app using Express 4",
@@ -9,7 +8,6 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
-=======
   "name": "first_hosting_with_heroku",
   "version": "0.2.5",
   "description": "This is a test application deployment with heroku",
@@ -19,19 +17,14 @@
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
->>>>>>> f9003bfe8d16a5d0b6a2d01b205ce653a47617bc
-  },
+ },
   "dependencies": {
     "ejs": "2.4.1",
     "express": "4.13.3"
   },
   "repository": {
     "type": "git",
-<<<<<<< HEAD
-    "url": "https://github.com/heroku/node-js-getting-started"
-=======
-    "url": "https://github.com/thirumurthy/testnodejs.git"
->>>>>>> f9003bfe8d16a5d0b6a2d01b205ce653a47617bc
+     "url": "https://github.com/thirumurthy/node-js-getting-started"
   },
   "keywords": [
     "node",
