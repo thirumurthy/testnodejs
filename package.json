@@ -8,6 +8,7 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js"
+	}
   "name": "first_hosting_with_heroku",
   "version": "0.2.5",
   "description": "This is a test application deployment with heroku",
